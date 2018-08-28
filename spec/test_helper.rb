@@ -465,10 +465,10 @@ class TestHelper
         7 bottles of beer on the wall,
         7 bottles of beer.
         Take one down and pass it around,
-        6 bottles of beer on the wall.
+        1 six-pack of beer on the wall.
 
-        6 bottles of beer on the wall,
-        6 bottles of beer.
+        1 six-pack of beer on the wall,
+        1 six-pack of beer.
         Take one down and pass it around,
         5 bottles of beer on the wall.
 
