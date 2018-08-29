@@ -189,9 +189,11 @@ Name methods at one level of abstraction higher.
 
 ### What does Good Code look like?
 
-"I like my code to be elegant and efficient"
-"Clean code is ... full of crisp abstractions..."
-"Clean code was written by someone who cares."
+> I like my code to be elegant and efficient
+
+> Clean code is ... full of crisp abstractions...
+
+> Clean code was written by someone who cares.
 
 What does it meant to be "elegant"? What makes an abstraction "crisp"?
 
